@@ -1,0 +1,7 @@
+| Milestone                                  | Status | Notes               |
+| ------------------------------------------ | ------ | ------------------- |
+| Async websocket collector (stock & crypto) | ✅ M1   | Alpaca v2 & Polygon |
+| Fast vectorized back-tester                | ✅ M2   | numba JIT paths     |
+| Walk-forward hyper-opt (Optuna)            | 🔄 M3  | reduce over-fit     |
+| Multi-factor ensemble (momentum + quality) | 🟡 M4  | research phase      |
+| UI dashboard (Plotly Dash)                 | ⏳ M5   | real-time PnL       |
