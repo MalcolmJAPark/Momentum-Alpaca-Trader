@@ -3,7 +3,7 @@ A high-frequency momentum research &amp; live paper-trading framework built arou
 
 | Section | What you’ll find |
 |---------|------------------|
-| [Key Features](#key-features) | Why this repo is résumé-worthy |
+| [Key Features](#key-features) ||
 | [Quick Start](#quick-start) | One-command setup with Docker |
 | [Architecture](#architecture) | Layered, test-driven design |
 | [Usage](#usage) | Scraping, back-testing, live paper trading |
