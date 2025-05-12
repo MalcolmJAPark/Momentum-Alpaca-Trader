@@ -29,7 +29,7 @@ A high-frequency momentum research &amp; live paper-trading framework built arou
 
 ```bash
 # 1. clone & configure
-git clone https://github.com/<your-handle>/momentum-alpaca-trader.git
+git clone https://github.com/MalcolmJAPark/momentum-alpaca-trader.git
 cd momentum-alpaca-trader
 cp .env.example .env   # add your Alpaca API keys here
 
