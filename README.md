@@ -6,10 +6,9 @@ A high-frequency momentum research &amp; live paper-trading framework built arou
 | [Key Features](#key-features) ||
 | [Quick Start](#quick-start) | One-command setup with Docker |
 | [Architecture](https://github.com/MalcolmJAPark/Momentum-Alpaca-Trader/blob/main/architecture) | Layered, test-driven design |
-| [Usage](#usage) | Scraping, back-testing, live paper trading |
-| [Roadmap](#roadmap) | Where the project is heading |
-| [Contributing](#contributing) | How to get involved |
-| [License](#license) | MIT |
+| [Usage](https://github.com/MalcolmJAPark/Momentum-Alpaca-Trader/tree/main) | Scraping, back-testing, live paper trading |
+| [Roadmap](https://github.com/MalcolmJAPark/Momentum-Alpaca-Trader/tree/main) | Where the project is heading |
+| [License](https://github.com/MalcolmJAPark/Momentum-Alpaca-Trader/blob/main/LICENSE) | MIT |
 
 ---
 
