@@ -1,0 +1,9 @@
+┌──────────────────┐
+│ app/             │
+│  ├─ core/        │  ← stateless business logic
+│  ├─ data/        │  ← scraping & DB adapters
+│  ├─ strategy/    │  ← momentum factors & portfolio rules
+│  ├─ backtest/    │  ← vectorized engine + metrics
+│  ├─ live/        │  ← Alpaca websocket & order routing
+│  └─ cli.py       │  ← rich TUI entry-point
+└──────────────────┘
