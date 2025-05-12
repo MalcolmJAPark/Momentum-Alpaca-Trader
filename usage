@@ -1,0 +1,11 @@
+# Scrape/Ingest
+python -m app.data.ingest --symbols SP500 --start 2020-01-01
+
+# Back-test
+python -m app.backtest.run --strategy momentum.vwap_drift \
+                           --train 2020-01-01:2023-12-31 \
+                           --test  2024-01-01:2024-12-31 \
+                           --metric sharpe
+
+# Live Paper Trade
+python -m app.live.trade --strategy momentum.vwap_drift --capital 100_000
